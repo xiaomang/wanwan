@@ -1,5 +1,4 @@
-# Nuxt dev/build outputs
-.output
+# Nuxt dev/build outputs（.output 进 git 让服务器免构建）
 .data
 .nuxt
 .nitro
