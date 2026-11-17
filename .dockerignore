@@ -1,0 +1,17 @@
+node_modules
+.nuxt
+.output
+.data
+.nitro
+.cache
+.git
+.gitignore
+Dockerfile
+.dockerignore
+README.md
+*.log
+.DS_Store
+.vscode
+.trae
+dist
+coverage
