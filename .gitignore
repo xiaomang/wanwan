@@ -6,6 +6,8 @@
 .cache
 dist
 
+AGENTS.md
+
 # Node dependencies
 node_modules
 
