@@ -7,8 +7,8 @@ dist
 
 AGENTS.md
 
-# Node dependencies
-node_modules
+# Node dependencies（只忽略根目录的，放行 .output/**/node_modules）
+/node_modules
 
 # Logs
 logs
